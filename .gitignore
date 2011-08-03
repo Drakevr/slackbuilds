@@ -1,0 +1,5 @@
+#Files mentioned in this file will be ignored by git
+*.tar.gz
+*.tar.gz.asc
+*~
+.directory
