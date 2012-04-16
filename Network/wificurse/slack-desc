@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.  Line
+# up the first '|' above the ':' following the base package name, and the '|'
+# on the right side marks the last column you can put a character in.  You must
+# make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':'.
+
+         |-----handy-ruler--------------------------------------------------------|
+wificurse: This program listens for beacons send from wireless access points in
+wificurse: the range of your wireless station. Once received the program extracts
+wificurse: the BSSID of the AP and transmits deauthentication packages using the
+wificurse: broadcast MAC address. This results to the disconnection of all clients
+wificurse: connected at the AP at the time of the attack. This is essencially a
+wificurse: WiFi DoS attack tool created for educational purposes only. It works
+wificurse: only in Linux and requires wireless card drivers capable if injecting
+wificurse: packets in wireless networks.
+wificurse:
+wificurse:
+wificurse:
