@@ -5,10 +5,10 @@ My Unofficial Slackbuild's repository
 
 ####"Official" Packages (included in SBo)
 * hermit-font
+* Tagaini Jisho
 
 ####"Unofficial" Packages
 * Bullet
 * DeaDBeeF
 * libxdg-basedir
 * wificurse
-* Tagaini Jisho
