@@ -84,7 +84,7 @@ cd $TMP/$PRGNAM-$VERSION
     -DGUNZIP=/usr/bin/gunzip \
     -DQT_QMAKE_EXECUTABLE=/usr/bin/qmake \
     -DSQLITE_INCLUDE_DIR=/usr/include \
-    -DSQLITE_LIBRARY=/usr/lib64/libsqlite3.so
+    -DSQLITE_LIBRARY=/usr/lib${LIBDIRSUFFIX}/libsqlite3.so
 
   make
   make install DESTDIR=$PKG
