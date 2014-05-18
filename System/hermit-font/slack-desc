@@ -6,14 +6,14 @@
 # customary to leave one space after the ':'.
 
              |-----handy-ruler------------------------------------------------------|
-hermit-font: Hermit is a monospace font designed to be clear, pragmatic and very
-hermit-font: readable.
-hermit-font: Its creation has been focused on programming.
-hermit-font: Every glyph was carefully planned and calculated, according to defined
-hermit-font: principles and rules.
-hermit-font: For this reason, Hermit is coherent and regular.
-hermit-font:
-hermit-font:
-hermit-font: Homepage: https://pcaro.es/p/hermit/
-hermit-font:
-hermit-font:
+otf-hermit: Hermit is a monospace font designed to be clear, pragmatic and very
+otf-hermit: readable.
+otf-hermit: Its creation has been focused on programming.
+otf-hermit: Every glyph was carefully planned and calculated, according to defined
+otf-hermit: principles and rules.
+otf-hermit: For this reason, Hermit is coherent and regular.
+otf-hermit:
+otf-hermit:
+otf-hermit: Homepage: https://pcaro.es/p/hermit/
+otf-hermit:
+otf-hermit:
