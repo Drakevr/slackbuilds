@@ -8,7 +8,5 @@ My Unofficial Slackbuild's repository
 * Tagaini Jisho
 
 ####"Unofficial" Packages
-* Bullet
 * DeaDBeeF
-* libxdg-basedir
 * wificurse
